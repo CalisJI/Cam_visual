@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<System_config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Map_Path_File>F:\VISUAL PROJECT\Testcam\bin\Debug\TEMP_IMG</Map_Path_File>
+  <Output_File>F:\VISUAL PROJECT\Testcam\bin\Debug\Travel_machine.txt</Output_File>
+  <DefaultComport>COM7</DefaultComport>
+  <DefaultCOMBaudrate>9600</DefaultCOMBaudrate>
+  <Camera1>3</Camera1>
+  <pixel_cam1>0</pixel_cam1>
+  <Bmin>0</Bmin>
+  <Bmax>255</Bmax>
+  <Gmin>0</Gmin>
+  <Gmax>80</Gmax>
+  <Rmin>80</Rmin>
+  <Rmax>255</Rmax>
+  <down_thresh>0</down_thresh>
+  <up_thresh>100000</up_thresh>
+  <ConveyorX>0</ConveyorX>
+  <ConveyorY>0</ConveyorY>
+  <ConveyorZ_H>0</ConveyorZ_H>
+  <ConveyorZ_L>0</ConveyorZ_L>
+  <NG_location>0</NG_location>
+  <FrameH>0</FrameH>
+  <FrameW>0</FrameW>
+</System_config>
